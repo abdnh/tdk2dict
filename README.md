@@ -1,3 +1,5 @@
+<img src="shot.png" width="600" style="text-align:center; display: block;">
+
 A Python script to convert dictionary data in JSON format downloaded from [ogun/guncel-turkce-sozluk](https://github.com/ogun/guncel-turkce-sozluk) or https://sozluk.gov.tr/ to the [DICT format](https://en.wikipedia.org/wiki/DICT#Dict_file_format)
 for use in programs like [GoldenDict](http://www.goldendict.org/).
 
@@ -18,6 +20,10 @@ optional arguments:
   --start START  start importing from the entry with the specified index
   --end END      stop importing before the entry with the specified index
 ```
+
+## TODO
+
+Currently definitions, example sentences, and properties are imported. Maybe there are other useful info to import?
 
 ## References
 
