@@ -21,6 +21,10 @@ optional arguments:
   --end END      stop importing before the entry with the specified index
 ```
 
+## Download
+
+If you want all the dictionary data, you can just download pre-generated files from the [releases page](https://github.com/abdnh/tdk2dict/releases/).
+
 ## TODO
 
 Currently definitions, example sentences, and properties are imported. Maybe there are other useful info to import?
